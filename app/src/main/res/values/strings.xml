@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SharedPreferences API</string>
+    <string name="user_name">zienxp</string>
+    <string name="user_password">zienxp2211</string>
+    <string name="login_preference">com.example.sharedpreferencesapi_login_preference</string>
+    <string name="login_status_preference">com.example.sharedpreferencesapi_login_status_preference</string>
 </resources>
